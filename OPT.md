@@ -15,7 +15,7 @@ Give two short, concrete examples (2–3 sentences each):
 
 Instructor example: describe an instructor’s operating model, a sample process, and one task that could be automated.
 
-Entrepreneur example: describe an entrepreneur running 100xEngineers, their operating model, a sample process, and one task that could be automated.
+Entrepreneur example: describe an entrepreneur running SaaS company, their operating model, a sample process, and one task that could be automated.
 
 Discovery sequence:
 
